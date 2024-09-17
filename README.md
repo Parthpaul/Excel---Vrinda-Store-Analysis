@@ -28,7 +28,7 @@ To improve Vrinda Store's sales, target women customers in the 30-49 years age g
 8. **Top Selling Category**: Highest selling category? 🏷️
 
 ## How to Use This Project
-1. **Open the Excel File**: Open the `Vrinda_Store_Sales_Analysis.xlsx` file in Excel.
+1. **Open the Excel File**: Open the Download the Excel file`Vrinda Store Data Analysis.xlsx` file in Excel.
 2. **Explore the Dashboard**: Navigate through the various sheets to explore the insights and visualizations.
 
 ## Tools Used 🛠️
