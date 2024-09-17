@@ -3,6 +3,8 @@
 
 # Vrinda Store Sales Analysis 📊
 
+### [Check out Dashboard🖥️](https://www.linkedin.com/feed/update/urn:li:activity:7241818968867418113/)
+
 ## Project Overview 🚀
 This project involves a comprehensive analysis of the Vrinda Store dataset using Excel. The goal is to uncover key sales insights by examining various customer attributes such as channels, product categories, age groups, gender, and geographical distribution across different states.
 
@@ -34,6 +36,3 @@ To improve Vrinda Store's sales, target women customers in the 30-49 years age g
 - **Power Query**: For data cleaning and transformation.
 - **Pivot Tables**: For summarizing data.
 - **Charts and Graphs**: For visual representation of data.
-  
-## [Check out Dashboard🖥️](https://www.linkedin.com/feed/update/urn:li:activity:7241818968867418113/)
-
